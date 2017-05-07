@@ -1,4 +1,4 @@
-# pb2-tp1-cuentaBancaria
+# pb2-tp2-cuentaBancaria
 
 # TRABAJO PRÁCTICO NRO. 2 – PB 2
 
